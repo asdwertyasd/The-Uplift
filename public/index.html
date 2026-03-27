@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Uplift — Good News, Every Day</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <header>
+    <nav class="nav-inner">
+      <a href="/" class="logo">
+        <span class="logo-sun">&#9728;</span> The Uplift
+      </a>
+      <ul class="nav-links">
+        <li><a href="/" class="active">Home</a></li>
+        <li><a href="/?category=Environment">Environment</a></li>
+        <li><a href="/?category=Community">Community</a></li>
+        <li><a href="/?category=Science">Science</a></li>
+        <li><a href="/?category=Arts">Arts</a></li>
+        <li><a href="/?category=Health">Health</a></li>
+      </ul>
+      <a href="/post.html" class="btn-post-nav">+ Share a Story</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1>Good news is still out there.</h1>
+    <p>The Uplift collects feel-good stories from around the world — because the world is full of kindness, courage, and wonder.</p>
+    <form class="search-bar" id="searchForm">
+      <input type="text" id="searchInput" placeholder="Search stories…" autocomplete="off" />
+      <button type="submit">&#128269;</button>
+    </form>
+  </section>
+
+  <!-- CATEGORY FILTER -->
+  <div class="categories" id="categoryPills">
+    <button class="pill active" data-category="">All Stories</button>
+    <button class="pill" data-category="Environment">Environment</button>
+    <button class="pill" data-category="Community">Community</button>
+    <button class="pill" data-category="Science">Science</button>
+    <button class="pill" data-category="Arts">Arts</button>
+    <button class="pill" data-category="Health">Health</button>
+    <button class="pill" data-category="Animals">Animals</button>
+    <button class="pill" data-category="Innovation">Innovation</button>
+  </div>
+
+  <!-- STORIES -->
+  <div class="section-header">
+    <h2 id="sectionTitle">Latest Stories</h2>
+    <span class="story-count" id="storyCount"></span>
+  </div>
+
+  <main class="stories-grid" id="storiesGrid">
+    <div class="spinner"><div class="spinner-ring"></div></div>
+  </main>
+
+  <footer>
+    <strong>The Uplift</strong> &mdash; Only good news, always.
+    <p class="tagline">"The world is full of good people. Sometimes you just have to look."</p>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>
