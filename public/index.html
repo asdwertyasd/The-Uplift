@@ -2,68 +2,72 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>The Uplift — Good News, Every Day</title>
   <link rel="stylesheet" href="/css/style.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>" />
 </head>
-<body>
+<body class="reels-body">
 
-  <!-- NAV -->
-  <header>
-    <nav class="nav-inner">
-      <a href="/" class="logo">
-        <span class="logo-sun">&#9728;</span> The Uplift
-      </a>
-      <ul class="nav-links">
-        <li><a href="/" class="active">Home</a></li>
-        <li><a href="/?category=Environment">Environment</a></li>
-        <li><a href="/?category=Community">Community</a></li>
-        <li><a href="/?category=Science">Science</a></li>
-        <li><a href="/?category=Arts">Arts</a></li>
-        <li><a href="/?category=Health">Health</a></li>
-      </ul>
-      <a href="/post.html" class="btn-post-nav">+ Share a Story</a>
-    </nav>
-  </header>
+  <!-- FIXED HEADER -->
+  <div class="reels-header" id="reelsHeader">
+    <a href="/" class="reels-logo">
+      <span class="reels-logo-sun">☀</span>
+      <span class="reels-logo-text">The Uplift</span>
+    </a>
 
-  <!-- HERO -->
-  <section class="hero">
-    <h1>Good news is still out there.</h1>
-    <p>The Uplift collects feel-good stories from around the world — because the world is full of kindness, courage, and wonder.</p>
-    <form class="search-bar" id="searchForm">
-      <input type="text" id="searchInput" placeholder="Search stories…" autocomplete="off" />
-      <button type="submit">&#128269;</button>
-    </form>
-  </section>
+    <div class="reels-search-wrap" id="searchWrap">
+      <form class="reels-search-form" id="searchForm" autocomplete="off">
+        <span class="reels-search-icon">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+        </span>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search stories, places, topics…"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button type="button" class="search-clear-btn" id="searchClear" aria-label="Clear search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+            <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </form>
+    </div>
 
-  <!-- CATEGORY FILTER -->
-  <div class="categories" id="categoryPills">
-    <button class="pill active" data-category="">All Stories</button>
-    <button class="pill" data-category="Environment">Environment</button>
-    <button class="pill" data-category="Community">Community</button>
-    <button class="pill" data-category="Science">Science</button>
-    <button class="pill" data-category="Arts">Arts</button>
-    <button class="pill" data-category="Health">Health</button>
-    <button class="pill" data-category="Animals">Animals</button>
-    <button class="pill" data-category="Innovation">Innovation</button>
+    <a href="/post.html" class="reels-share-btn">
+      <span>+</span> Share
+    </a>
   </div>
 
-  <!-- STORIES -->
-  <div class="section-header">
-    <h2 id="sectionTitle">Latest Stories</h2>
-    <span class="story-count" id="storyCount"></span>
+  <!-- PROGRESS DOTS (right side) -->
+  <div class="progress-dots" id="progressDots"></div>
+
+  <!-- MAIN FEED -->
+  <div class="reels-feed" id="reelsFeed">
+    <!-- Story reels injected by JS -->
   </div>
 
-  <main class="stories-grid" id="storiesGrid">
-    <div class="spinner"><div class="spinner-ring"></div></div>
-  </main>
+  <!-- LOADING SCREEN -->
+  <div class="reels-loading" id="reelsLoading">
+    <div class="reels-loading-inner">
+      <div class="spinner-ring"></div>
+      <p>Loading good news…</p>
+    </div>
+  </div>
 
-  <footer>
-    <strong>The Uplift</strong> &mdash; Only good news, always.
-    <p class="tagline">"The world is full of good people. Sometimes you just have to look."</p>
-  </footer>
+  <!-- EMPTY STATE -->
+  <div class="reels-empty" id="reelsEmpty">
+    <div class="reels-empty-icon">🌱</div>
+    <h3>No stories found</h3>
+    <p>Try a different search term</p>
+    <button class="reels-empty-reset" id="emptyReset">Show all stories</button>
+  </div>
 
+  <!-- TOAST -->
   <div class="toast" id="toast"></div>
 
   <script src="/js/main.js"></script>
