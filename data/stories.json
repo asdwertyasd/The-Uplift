@@ -2,9 +2,12 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000001",
     "title": "Ocean Cleanup Project Removes 200 Tons of Plastic in Record Time",
-    "excerpt": "A global team of volunteers set a new record this month, pulling nearly 200 tons of plastic waste from Pacific waters — and they're just getting started.",
+    "excerpt": "A global team of volunteers set a new record this month, pulling nearly 200 tons of plastic waste from Pacific waters. Advanced collection systems designed by students now filter microplastics alongside larger debris. Marine biologists are already reporting increased biodiversity in the cleanup zones.",
     "content": "A coalition of environmental organizations and local volunteers celebrated a major milestone this week after removing nearly 200 tons of plastic debris from the Pacific Ocean in under three months — a new world record for a community-led cleanup effort.\n\nThe project, which began with just a dozen boats and a handful of dedicated activists, has grown into a movement spanning 14 countries. Advanced collection systems, many designed by university engineering students, now filter microplastics alongside larger debris.\n\n\"We used to say the ocean was too big to clean,\" said lead organizer Maya Chen. \"Now we know better. Every piece we pull out is a win for every creature living in there.\"\n\nMarine biologists monitoring the cleanup zones have already reported increased biodiversity, with several sea turtle nesting sites showing signs of recovery. The team plans to expand to three new ocean regions next year, funded entirely by a wave of small donations from around the world.",
     "category": "Environment",
+    "country": "International",
+    "location": "Pacific Ocean",
+    "flag": "🌊",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-25T10:00:00.000Z"
@@ -12,9 +15,12 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000002",
     "title": "Ten-Year-Old's Kindness Project Feeds 50,000 Families",
-    "excerpt": "What started as a school project for young Amara has grown into a nationwide network of community fridges helping families in need.",
+    "excerpt": "What started as a school project for young Amara has grown into a nationwide network of community fridges helping families in need. Four years later, Amara's Community Fridge Network spans 200 cities with 2,000 volunteers. Food is a right, not a privilege — and this kid proved it.",
     "content": "When Amara Johnson was in fourth grade, she noticed that some classmates went home hungry. Her solution was simple: a small refrigerator outside her family's home stocked with free food, operating on the principle \"take what you need, leave what you can.\"\n\nFour years later, Amara's Community Fridge Network spans 200 cities and has provided meals to over 50,000 families. The now-14-year-old has spoken at city councils, partnered with grocery chains to redirect surplus food, and inspired hundreds of similar initiatives in other countries.\n\n\"Food is a right, not a privilege,\" Amara told a crowd at a recent community event, greeted with a standing ovation. \"And when we help each other, everyone wins.\"\n\nThe network now operates with a volunteer staff of over 2,000 people and has been recognized by three national nutrition nonprofits as a model for community-based food security.",
     "category": "Community",
+    "country": "United States",
+    "location": "Chicago, USA",
+    "flag": "🇺🇸",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-24T09:00:00.000Z"
@@ -22,9 +28,12 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000003",
     "title": "Scientists Discover Coral Reef Fully Restored After Decade of Care",
-    "excerpt": "A reef once declared \"dead\" by researchers in 2015 is now teeming with life, thanks to a painstaking restoration project driven by local fishing communities.",
+    "excerpt": "A reef once declared dead by researchers in 2015 is now teeming with life, thanks to a painstaking restoration project driven by local fishing communities. Coral coverage has returned to 78% of pre-bleaching levels, and fish populations have rebounded beyond expectations. The project has become a global model with delegations from 22 countries visiting to learn its methods.",
     "content": "In 2015, a team of marine biologists filed a sobering report: the Coral Triangle reef off the coast of Sulawesi had suffered catastrophic bleaching and was, for all practical purposes, dead. Ten years later, the same team is filing a very different kind of report.\n\nThe reef is alive — thriving, even. Coral coverage has returned to 78% of pre-bleaching levels, and fish populations have rebounded beyond what researchers had hoped to see within their lifetimes.\n\nThe turnaround is credited to a community-led restoration program that employed local fishers — many of whom had lost their livelihoods when the reef died — as coral gardeners. Using underwater nurseries and carefully transplanted coral fragments, they rebuilt the reef piece by piece.\n\n\"These fishers know this reef better than anyone,\" said lead researcher Dr. Sari Dewi. \"They gave it back to themselves.\"\n\nThe project has become a global model for reef restoration, with delegations from 22 countries visiting to learn its methods.",
     "category": "Science",
+    "country": "Indonesia",
+    "location": "Sulawesi, Indonesia",
+    "flag": "🇮🇩",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-22T14:30:00.000Z"
@@ -32,9 +41,12 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000004",
     "title": "City Plants 1 Million Trees in Just 18 Months",
-    "excerpt": "Residents of Medellín rallied around an ambitious urban greening project — and finished it ahead of schedule.",
+    "excerpt": "Residents of Medellín rallied around an ambitious urban greening project — and finished it ahead of schedule. Over 80,000 volunteers planted everything from classroom seedlings to full saplings across the city. Average temperatures in the greened districts have already dropped by 2°C.",
     "content": "Medellín, Colombia has long been celebrated for its urban transformation, and now the city has added another chapter to that story: 1 million new trees planted across the metropolitan area in just 18 months, beating the original 3-year target by half.\n\nThe effort engaged more than 80,000 volunteers, from school children who grew seedlings in classroom pots to elderly residents who helped water newly planted saplings in their neighborhoods. Local nurseries reported a surge in employment, and biodiversity surveys are already showing an increase in bird and insect species.\n\n\"Our city breathes better now,\" said Mayor Valentina Ríos. \"But more than that, our people came together to make it happen. That's the real story.\"\n\nAverage urban temperatures in the greened districts have dropped by 2°C, and air quality index scores have improved significantly. The project has inspired 15 other Latin American cities to launch similar initiatives.",
     "category": "Environment",
+    "country": "Colombia",
+    "location": "Medellín, Colombia",
+    "flag": "🇨🇴",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-20T11:00:00.000Z"
@@ -42,9 +54,12 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000005",
     "title": "New App Connects Lonely Seniors With Volunteer Companions",
-    "excerpt": "A simple idea — pairing isolated older adults with friendly visitors — has blossomed into a movement that's transformed thousands of lives.",
+    "excerpt": "A simple idea — pairing isolated older adults with friendly visitors — has blossomed into a movement that's transformed thousands of lives across 30 cities. Studies show measurable reductions in depression and anxiety among participants. The founders built the first version over a weekend and have no plans to monetise it.",
     "content": "Loneliness among seniors has been called a silent epidemic — but a small startup is doing something concrete about it. Companion, an app launched 18 months ago, matches older adults who want company with volunteers who visit for conversation, board games, walks, or whatever sounds good.\n\nThe results have been striking. Studies conducted with early participants show measurable reductions in depression and anxiety scores, and many users report that their weekly visits have become the highlight of their week.\n\n\"I lost my wife, my kids moved away, and the days felt very long,\" said 81-year-old participant Harold. \"Now I have David on Tuesdays. He brings his dog. I've never laughed so much.\"\n\nThe platform is free for seniors and relies on a growing network of 45,000 volunteers in 30 cities. The founding team, three college friends who built the first version over a weekend, say they have no plans to monetize it. \"We just want more people to feel less alone.\"",
     "category": "Community",
+    "country": "United Kingdom",
+    "location": "London, UK",
+    "flag": "🇬🇧",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-18T09:30:00.000Z"
@@ -52,11 +67,79 @@
   {
     "id": "a1b2c3d4-0001-0001-0001-000000000006",
     "title": "Breakthrough Treatment Gives Hearing Back to Deaf Children",
-    "excerpt": "Gene therapy trials show unprecedented success, with 90% of children with a specific type of congenital deafness regaining functional hearing.",
+    "excerpt": "Gene therapy trials show unprecedented success, with 90% of children with a specific type of congenital deafness regaining functional hearing. Of 40 children enrolled, 36 heard their parents' voices for the first time within six months. The team is now working to make the therapy available in lower-income countries at little or no cost.",
     "content": "Researchers at three independent hospitals have announced results from a landmark gene therapy trial that may change the lives of hundreds of thousands of children born with a common form of genetic deafness caused by mutations in the OTOF gene.\n\nOf the 40 children enrolled in the trial — all of whom had been profoundly deaf from birth — 36 developed functional hearing within six months of a single treatment. Many heard their parents' voices for the first time.\n\nOne video, shared with permission by a family, shows 3-year-old Lily reacting to hearing her mother say \"I love you\" for the first time. It has been watched more than 80 million times.\n\n\"We always dreamed of this,\" said chief researcher Dr. Elena Park. \"But there were so many years when it felt impossibly far away. Now we are watching children hear the world.\"\n\nThe team is working with international health organizations to make the therapy available in lower-income countries at low or no cost.",
     "category": "Science",
+    "country": "South Korea",
+    "location": "Seoul, South Korea",
+    "flag": "🇰🇷",
     "author": "The Uplift Team",
     "imageUrl": "",
     "date": "2026-03-15T13:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-0001-0001-0001-000000000007",
+    "title": "Japan's Ancient Forest Returns After 40 Years of Community Planting",
+    "excerpt": "Thousands of volunteers have spent four decades restoring a sacred Japanese forest, and this spring its rare wild orchids bloomed for the first time in living memory. The project began in 1985 with just 12 families and a handful of seedlings. Today the forest shelters 340 plant species and welcomes 50,000 visitors a year.",
+    "content": "On the island of Yakushima, a forest that had been devastated by decades of logging is coming back to life — and the people who brought it back are finally getting to see the results.\n\nThe restoration project began quietly in 1985 when 12 local families decided to replant a hillside on their own time. With no government funding and no media attention, they worked every weekend for years, nurturing seedlings by hand and protecting the young trees from deer.\n\nFour decades later, the forest has expanded to cover 3,400 hectares. This spring, for the first time anyone can remember, a rare wild orchid species bloomed across the hillside — a signal, botanists say, that the ecosystem has truly recovered.\n\n\"My grandfather planted the first trees here,\" said community leader Hiroshi Tanaka, 58. \"I used to think I was just finishing his work. Now I realise we planted something that will outlast all of us.\"\n\nThe forest now shelters 340 plant species and 180 bird species, and welcomes 50,000 visitors a year, generating income for the same families who spent their weekends restoring it.",
+    "category": "Environment",
+    "country": "Japan",
+    "location": "Yakushima, Japan",
+    "flag": "🇯🇵",
+    "author": "The Uplift Team",
+    "imageUrl": "",
+    "date": "2026-03-23T06:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-0001-0001-0001-000000000008",
+    "title": "Brazilian Teenagers Build Solar Panels for 200 Off-Grid Families",
+    "excerpt": "A group of 16 students from a favela in São Paulo built and installed solar panels for 200 families who had never had reliable electricity — all as part of a school science project. The students learned electrical engineering from YouTube tutorials and scavenged parts. Three of them have since been accepted to engineering universities on full scholarships.",
+    "content": "When a group of teenagers at Escola Municipal Santos Dumont were assigned a science project, their teacher expected the usual posters and presentations. What she got was something else entirely.\n\nThe 16 students, aged 14 to 17, decided to build working solar panels for the families in their community who still relied on candles and kerosene lamps. Over eight months they taught themselves electrical engineering from online tutorials, scavenged parts from electronics recycling centres, and — with help from a local electrician who donated his weekends — installed 200 solar systems across their neighbourhood.\n\n\"We didn't want to just learn about energy,\" said student Gabriela Santos, 16. \"We wanted to make it.\"\n\nThe project earned them a national science prize and international attention. But the students say the best part is simpler than that: their neighbours can now read at night, charge phones for emergencies, and keep medicine refrigerated.\n\nThree of the students have since received full university scholarships in engineering, and the school has made the project a permanent part of its curriculum.",
+    "category": "Innovation",
+    "country": "Brazil",
+    "location": "São Paulo, Brazil",
+    "flag": "🇧🇷",
+    "author": "The Uplift Team",
+    "imageUrl": "",
+    "date": "2026-03-21T10:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-0001-0001-0001-000000000009",
+    "title": "Kenyan Grandmother Teaches 3,000 Women to Code — at Age 72",
+    "excerpt": "Priscilla Sitienei, a 72-year-old retired nurse from Kenya, has become the country's most unlikely tech educator, teaching over 3,000 rural women to code through her living-room bootcamp. She learned programming herself at 67 after her granddaughter showed her a laptop. Her students have now launched 40 apps and two successful software companies.",
+    "content": "Priscilla Sitienei spent 35 years as a nurse in Eldoret, Kenya. After retiring, most people expected her to slow down. Instead, she learned to code.\n\nAt 67, her granddaughter showed her how to use a laptop. Within a year, Sitienei had taught herself Python and HTML. Within two, she had turned her living room into a free coding school for women in her community — many of whom had never touched a computer.\n\n\"People kept telling me I was too old to learn,\" she said. \"I thought: if I can do it, anyone can. So I decided to prove it.\"\n\nFive years later, her bootcamp has trained over 3,000 women aged 18 to 60, most of them from rural communities with no prior technical education. Her students have launched 40 apps — including a crop disease detection tool now used by 12,000 farmers — and two of them have founded software companies with international clients.\n\nSitienei, now 72, teaches six days a week and says she has no plans to stop. \"The more I teach, the more I learn. That is the deal.\"",
+    "category": "Education",
+    "country": "Kenya",
+    "location": "Eldoret, Kenya",
+    "flag": "🇰🇪",
+    "author": "The Uplift Team",
+    "imageUrl": "",
+    "date": "2026-03-19T08:00:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-0001-0001-0001-000000000010",
+    "title": "India's Largest River Cleanup Transforms Sacred Yamuna",
+    "excerpt": "After decades of pollution, a citizen-led cleanup of India's Yamuna River has restored 200km of waterways, with fish returning to Delhi's banks for the first time since the 1970s. The movement started with one retired schoolteacher and a broom. It now involves 400,000 volunteers across 14 cities.",
+    "content": "For most of living memory, the Yamuna River as it flows through Delhi has been less a river than an open drain — black, foul-smelling, and biologically dead. That is starting to change.\n\nA citizen-led cleanup movement that began eight years ago with a retired schoolteacher named Ramesh Gupta and 11 of his neighbours has grown into India's largest environmental volunteer effort. Today, more than 400,000 volunteers across 14 cities gather every Sunday morning to remove waste, plant riverbank vegetation, and monitor water quality.\n\nThis month, monitors recorded something that hasn't happened since the early 1970s: fish in the Delhi stretch of the river.\n\n\"I used to bring my children to this river,\" said Gupta, now 71. \"I want to bring my grandchildren, too. That's all.\"\n\nThe Indian government, initially sceptical of the volunteers, has now partnered with the movement and committed funding for industrial pollution controls upstream. Scientists estimate that if current rates of recovery hold, the river could support full aquatic ecosystems within 15 years.",
+    "category": "Environment",
+    "country": "India",
+    "location": "Delhi, India",
+    "flag": "🇮🇳",
+    "author": "The Uplift Team",
+    "imageUrl": "",
+    "date": "2026-03-17T07:30:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-0001-0001-0001-000000000011",
+    "title": "Netherlands' Blind Cyclists Ride 400km Coast-to-Coast With Sighted Guides",
+    "excerpt": "Forty blind and visually impaired cyclists completed a 400km tandem ride from Amsterdam to Brussels, paired with sighted guides they had never met before. The ride raised €2 million for accessible sports programmes and sparked a national conversation about inclusion. Several participants said it was the first time they had felt the wind in their face at speed.",
+    "content": "Forty cyclists set off from Amsterdam on a Tuesday morning in late March, heading for Brussels. Nothing unusual about that — except that half of them couldn't see a metre in front of their faces.\n\nThe riders were all blind or severely visually impaired. Each was paired with a sighted guide on a tandem bicycle, matched through an app launched just six weeks before the event. Many pairs had never met in person before the morning of the ride.\n\nOver four days and 400 kilometres, they navigated the flat Dutch and Belgian countryside together, figuring out communication and trust one pedal stroke at a time.\n\n\"There's a moment on the second day where you stop thinking about the fact that you can't see,\" said rider Fatima el-Amin, 34, who lost her sight at 19. \"You're just moving. You're just there. It's extraordinary.\"\n\nThe ride raised €2 million for accessible sports programmes across the Netherlands and Belgium, and sparked national media coverage that several disability advocates say has visibly shifted public conversation about inclusion in sport.\n\nOrganisers are already planning a 2027 edition from Brussels to Paris.",
+    "category": "Sports",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "flag": "🇳🇱",
+    "author": "The Uplift Team",
+    "imageUrl": "",
+    "date": "2026-03-16T09:00:00.000Z"
   }
 ]
